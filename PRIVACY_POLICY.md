@@ -72,6 +72,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions, feedback, or concerns regarding this Privacy Policy or the security of the game, please contact us at:
 
-* **Email:** support@polarity.game
-* **Developer:** Rakesh
-* **GitHub Repository:** [https://github.com/Rakesh0918/PolarityAndroid](https://github.com/Rakesh0918/PolarityAndroid)
+* **Email:** rakesharma0918@gmail.com
+* **Developer:** Rakesh Sharma
